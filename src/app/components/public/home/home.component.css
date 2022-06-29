@@ -1,0 +1,68 @@
+body {
+    font-family: 'Noto Sans';
+    scroll-behavior: smooth;
+}
+.bg-img {
+    background-image: url(../../assets/images/jonathan-borba-BjfEqfRhiO8-unsplash.jpg);
+    min-height: 100vh;
+}
+
+.img{
+    height: 500px;
+    width: 900px;
+}
+
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.font-center {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.pad {
+    margin-top: 350px;
+}
+
+.btn-sm {
+    background-color: #39A8E0;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+}
+.text-p{
+text-align: center;
+}
+.img-round{
+    margin: 20px;
+    
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.card{
+    border: none;
+}
+.img-size{
+    height: 300px;
+}
+.awesome{
+height: 35px;
+width: 35px;
+}
